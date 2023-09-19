@@ -1,0 +1,15 @@
+.login .form-control textarea {
+    margin: 5px 0;
+    padding: 12px;
+    border: none;
+    border-radius: 10px;
+    width: 80vw;
+    font-family: inherit;
+    font-weight: 700;
+    letter-spacing: 2px;
+  }
+  
+.login .form-control textarea {
+    height: 10vw;
+  }
+  

@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.02bc1bb9.chunk.css",
+    "main.js": "/static/js/main.22b467a1.chunk.js",
+    "main.js.map": "/static/js/main.22b467a1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ad3b99b9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ad3b99b9.js.map",
+    "static/js/2.7295df64.chunk.js": "/static/js/2.7295df64.chunk.js",
+    "static/js/2.7295df64.chunk.js.map": "/static/js/2.7295df64.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.02bc1bb9.chunk.css.map": "/static/css/main.02bc1bb9.chunk.css.map",
+    "static/js/2.7295df64.chunk.js.LICENSE.txt": "/static/js/2.7295df64.chunk.js.LICENSE.txt",
+    "static/media/appointment.2ab390f2.jpeg": "/static/media/appointment.2ab390f2.jpeg",
+    "static/media/awards.c85102ff.jpeg": "/static/media/awards.c85102ff.jpeg",
+    "static/media/business.80f15a05.jpeg": "/static/media/business.80f15a05.jpeg",
+    "static/media/event.63ea4e61.jpeg": "/static/media/event.63ea4e61.jpeg",
+    "static/media/flight.4a587db6.jpeg": "/static/media/flight.4a587db6.jpeg",
+    "static/media/image-1.30c87b20.jpg": "/static/media/image-1.30c87b20.jpg",
+    "static/media/image-3.54c6405d.jpg": "/static/media/image-3.54c6405d.jpg",
+    "static/media/image-4.342dc1ed.jpg": "/static/media/image-4.342dc1ed.jpg",
+    "static/media/school.33a09b5e.jpeg": "/static/media/school.33a09b5e.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad3b99b9.js",
+    "static/js/2.7295df64.chunk.js",
+    "static/css/main.02bc1bb9.chunk.css",
+    "static/js/main.22b467a1.chunk.js"
+  ]
+}
